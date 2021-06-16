@@ -8,7 +8,7 @@ Sou um profissional com grande interesse em psicologia, análise de dados, apren
 Me ajude com minha pesquisa e a treinar uma inteligência artificial! 
 
 Basta acessar o link e seguir as instruções:
-- https://iassociador-app.herokuapp.com (hospedagem gratuita, pode demorar um pouco para começar)
+- https://iassociador-app.herokuapp.com?lang=pt (hospedagem gratuita, pode demorar um pouco para começar)
 
 ___
 
@@ -22,5 +22,5 @@ Help me with my research and trainig of an artificial intelligence!
 Access the
 
 Just access this link and follow the instructions:
-- https://iassociador-app.herokuapp.com (free hosting, might take a bit to start)
+- https://iassociador-app.herokuapp.com/?lang=en (free hosting, might take a bit to start)
 
