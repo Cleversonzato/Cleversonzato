@@ -2,7 +2,7 @@
 # Olá! 
 [pt]
  
-Sou um profissional com grande interesse em psicologia, análise de dados, aprendizado de máquina e áreas comuns entre psicologia e computação.
+Sou um profissional com grande interesse em psicologia, ciência de dados, aprendizado de máquina e áreas comuns entre psicologia e computação.
 
 ## Pesquisa com o "Associador"
 Me ajude com minha pesquisa e a treinar uma inteligência artificial! 
@@ -15,7 +15,7 @@ ___
 # Hello!
 [en]
 
-I am a professional with interest in psychology, data analysis, machine learning and commom areas between psychology and computer sciences
+I am a professional with interest in psychology, data science, machine learning and commom areas between psychology and computer sciences
 
 ##  Research with the "Associador"
 Help me with my research and trainig of an artificial intelligence!
