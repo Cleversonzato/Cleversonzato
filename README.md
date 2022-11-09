@@ -11,4 +11,5 @@ I am a professional with interest in psychology, data science, machine learning 
 
 # Ciao!
 [it]
-Io sono un professionista con grande interesse in psicologia, data science, machine learning e nei ambiti comune tra psicologia e informática
+
+Sono un professionista con grande interesse in psicologia, data science, machine learning e nei ambiti comune tra psicologia e informática
