@@ -4,3 +4,11 @@
  
 Sou um profissional com grande interesse em psicologia, ciência de dados, aprendizado de máquina e áreas comuns entre psicologia e computação.
 
+# Hello!
+[en]
+
+I am a professional with interest in psychology, data science, machine learning and commom areas between psychology and computer sciences
+
+# Ciao!
+[it]
+Io sono un professionista con grande interesse in psicologia, data science, machine learning e nei ambiti comune tra psicologia e informática
