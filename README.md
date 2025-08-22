@@ -27,7 +27,7 @@ I am a professional with interest in psychology, data science, machine learning 
 Here are some sample of my work:)
 
 - Data science especialization:
- A evaluation, inspired in a word association test, that presents an hipotetic situation to an user and tries to guess his choice from his emotional interactions with the computer, using machine learning technics and onthologies:
+ A evaluation, inspired in a word association test, that presents an hypothetical situation to an user and tries to guess his choice from his emotional interactions with the computer, using machine learning and ontology. (in portuguese):
   - Final work (pdf - in portuguese): [https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf](https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf)
   - Related repositories:
     - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/IAssociador)
