@@ -10,7 +10,7 @@ Aqui estão alguns exemplos do meu trabalho :)
   - Tcc (pdf): [https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf](https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf)
   - Repositórios relacionados:
     - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/IAssociador)
-    - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/FrontAssociador)
+    - [https://github.com/Cleversonzato/FrontAssociador](https://github.com/Cleversonzato/FrontAssociador)
   
 - Encontros sobre extração de dados, inteligência artificial/machine learning e LLMs (em italiano):
   - Videos: [https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv](https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv)
@@ -31,7 +31,7 @@ Here are some sample of my work:)
   - Final work (pdf - in portuguese): [https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf](https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf)
   - Related repositories:
     - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/IAssociador)
-    - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/FrontAssociador)
+    - [https://github.com/Cleversonzato/FrontAssociador](https://github.com/Cleversonzato/FrontAssociador)
   
 - Meetings about data extraction, artificial inteligence/machine learning and LLMs (in italian):
   - Videos: [https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv](https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv)
@@ -52,7 +52,7 @@ Ecco alcuni esempi del mio lavoro :)
   - Elaborato finale  (pdf - in portuguese): [https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf](https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf)
   - Repository correlati:
     - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/IAssociador)
-    - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/FrontAssociador)
+    - [https://github.com/Cleversonzato/FrontAssociador](https://github.com/Cleversonzato/FrontAssociador)
   
 - Incontri su estrazione dati, intelligenza artificiale/apprendimento automatico e LLMs (it):
   - Videos: [https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv](https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv)
@@ -73,7 +73,7 @@ Eine Evaluation, inspiriert von einem Wortassoziationstest, präsentiert einem N
   - Abschlussarbeit (PDF – auf Portugiesisch): [https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf](https://github.com/Cleversonzato/IAssociador/blob/main/TCC_CD.pdf)
   - Zugehörige Repositories:
     - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/IAssociador)
-    - [https://github.com/Cleversonzato/IAssociador](https://github.com/Cleversonzato/FrontAssociador)
+    - [https://github.com/Cleversonzato/FrontAssociador](https://github.com/Cleversonzato/FrontAssociador)
 
 - Meetings zu Datenextraktion, Künstlicher Intelligenz/Maschine Lernen und LLMs (auf Italienisch):
   - Videos: [https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv](https://www.youtube.com/playlist?list=PLoYKV0kjvoqTRQAWRbbXILashPJsi03Fv)
